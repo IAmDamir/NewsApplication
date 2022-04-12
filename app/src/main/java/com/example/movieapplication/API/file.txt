@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 38,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "CBS Sports"
+},
+"author": "",
+"title": "2022 Masters takeaways: Scottie Scheffler looks to prove bonafides, Justin Thomas lurks entering Moving Day - CBS Sports",
+"description": "Scheffler is out to prove his world No. 1 ranking is no fluke at Augusta National",
+"url": "https://www.cbssports.com/golf/news/2022-masters-takeaways-scottie-scheffler-looks-to-prove-bonafides-justin-thomas-lurks-entering-moving-day/",
+"urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/09/45532b17-941d-4cdf-ab9f-5e60fef326a7/thumbnail/1200x675/202c2de7a61c25f968846b4616f25069/justin-thomas-sand-masters-2022-r2-g.jpg",
+"publishedAt": "2022-04-09T05:37:00Z",
+"content": "AUGUSTA, Ga. -- Perhaps it should not be surprising that the No. 1 golfer in the world, who has also won three of his last five tournaments, shot a 67 on Friday at the 2022 Masters and holds a five-s… [+7123 chars]"
+},
+{
+"source": {
+"id": "independent",
+"name": "Independent"
+},
+"author": "Leonie Cooper",
+"title": "Will Smith responds to Oscars ban after Chris Rock slap - The Independent",
+"description": "The actor has been barred from the Oscars for a decade",
+"url": "https://www.independent.co.uk/arts-entertainment/films/news/will-smith-oscar-ban-academy-chris-rock-b2054465.html",
+"urlToImage": "https://static.independent.co.uk/2022/04/02/02/0200fdc3b8b2d4a352957ab291024f91Y29udGVudHNlYXJjaGFwaSwxNjQ4OTQ4MzI5-2.66101436.jpg?quality=75&width=1200&auto=webp",
+"publishedAt": "2022-04-09T04:39:16Z",
+"content": "Will Smith has responded to his 10-year ban from the Oscars.\r\nIn a new statement, via The Washington Post, the actor commented: I accept and respect the Academys decision.\r\nEarlier today (April 8), t… [+1280 chars]"
+},
+{
+"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Brianna Abbott, Laurence Norman",
+"title": "The Russia-Ukraine War: April 7, 2022 - The Wall Street Journal",
+"description": "Full coverage of Russia’s invasion of Ukraine",
+"url": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-04-08",
+"urlToImage": "https://images.wsj.net/im-520958/social",
+"publishedAt": "2022-04-09T04:11:00Z",
+"content": "Here are five new elements that emerged from the latest round of EU sanctions against Russia:\r\nTargeting Oligarchs\r\nThe Wall Street Journal had already reported that President Vladimir Putins two dau… [+2931 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a>, CNN",
+"title": "Russia invades Ukraine: Live updates - CNN",
+"description": "Ukrainian President Volodymyr Zelensky said a Russian missile strike on a train station that killed at least 50 people in the eastern city of Kramatorsk was \"another war crime of Russia, for which everyone involved will be held accountable.\"",
+"url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-04-09-22/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220408140942-02c-mass-grave-bucha-0408-super-tease.jpg",
+"publishedAt": "2022-04-09T04:00:00Z",
+"content": "Russian forces killed 132 civilians in Makariv, in the Kyiv region, the town's mayor said on Friday as Ukrainian officials continue to assess the extent of destruction around the capital and north of… [+1233 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Entertainment Tonight"
+},
+"author": "Antoinette Bueno‍",
+"title": "Jennifer Lopez Announces Engagement to Ben Affleck - Entertainment Tonight",
+"description": "Bennifer is engaged for a second time.",
+"url": "https://www.etonline.com/jennifer-lopez-announces-engagement-to-ben-affleck-170900",
+"urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-02/ETD_TRENDING%20Jennifer%20Lopez%20on%20Her%20%27Second%20Chance%27%20at%20Love_VIDPIC.jpg?h=70b8eaf7&itok=oQa_UKzP",
+"publishedAt": "2022-04-09T03:50:55Z",
+"content": "Ben Affleck and Jennifer Lopez are engaged! Affleck popped the question to Lopez a second time after they rekindled their romance in February 2021.\r\nLopez announced the big news in her On the JLo new… [+4527 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Guardian"
+},
+"author": "Hugo Lowell",
+"title": "Pro-Trump activist Ali Alexander to cooperate with Capitol attack inquiry - The Guardian",
+"description": "Attorney says organizer of the ‘Stop the Steal’ movement will work with justice department after he was subpoenaed",
+"url": "https://amp.theguardian.com/us-news/2022/apr/08/pro-trump-activist-ali-alexander-to-cooperate-with-capitol-attack-inquiry",
+"urlToImage": "https://i.guim.co.uk/img/media/b46b1d85abc9273f869c35ab60e8ea8c235ae3d2/0_30_7713_4631/master/7713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b274754456519b5a751cce7ba7f15aa",
+"publishedAt": "2022-04-09T03:48:00Z",
+"content": "Ali Alexander, the prominent pro-Trump activist, will cooperate with the justice department investigation into the Capitol attack, making him the first high-profile political figure to agree to assis… [+2712 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ESPN"
+},
+"author": "ESPN",
+"title": "MLB Opening Day 2022 -- What we saw and takeaways from baseball's return - ESPN",
+"description": "Baseball is back! Here is your one-stop shop to keep up with the action you might have missed from Opening Day.",
+"url": "https://www.espn.com/mlb/story/_/page/mlbmain_live/mlb-opening-day-2022-saw-takeaways-baseball-return",
+"urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0407%2Fmlb_2022_opening_day_v2_16x9.jpg",
+"publishedAt": "2022-04-09T03:45:00Z",
+"content": "The 2022 MLB season is here! Thursday's Opening Day action didn't disappoint, and Friday kept the party going with clutch performances, mascot antics and more.\r\nThe New York Yankees and Boston Red So… [+34042 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "KXAN.com"
+},
+"author": "Jaclyn Ramkissoon",
+"title": "9 taken to hospital after car crashes into food truck, people on Barton Springs Rd. - KXAN.com",
+"description": "Multiple people are hurt after a “major collision” on Barton Springs Road Friday night, according to Austin-Travis County EMS. The agency said one vehicle reportedly crashed into a food truck and people.",
+"url": "https://www.kxan.com/news/local/austin/multiple-hurt-after-vehicle-reportedly-crashes-into-food-truck-people-on-barton-springs-rd/",
+"urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2022/04/Image-from-iOS-1.jpg?w=1280",
+"publishedAt": "2022-04-09T01:50:16Z",
+"content": "AUSTIN (KXAN) Nine people were taken to the hospital Friday night after a t-bone crash between two vehicles pushed one of them into a food truck and a group of people on Barton Springs Road, first re… [+2351 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Laura Italiano",
+"title": "NY AG asks judge to force Trump's appraisers to comply with subpoenas - Business Insider",
+"description": "NY AG Letitia James says appraisal powerhouse Cushman & Wakefield has not turned over documents in her probe of the former president's business.",
+"url": "https://www.businessinsider.com/ny-ag-asks-court-force-trumps-appraisers-comply-with-subpoenas-2022-4",
+"urlToImage": "https://i.insider.com/6241bd8ea2e45b001950aeca?width=1200&format=jpeg",
+"publishedAt": "2022-04-09T01:44:09Z",
+"content": "New York Attorney General Letitia James is chasing more Trump documents this time from the former president's real estate appraisers.  \r\nOn Thursday, James had asked a Manhattan judge to impose a $10… [+2508 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Times"
+},
+"author": "Vimal Patel",
+"title": "Idaho Supreme Court Halts 6-Week Abortion Ban Based on Texas’ Law - The New York Times",
+"description": "The court says Idaho’s law cannot go into effect this month as scheduled while it reviews legal challenges. The ban prohibits abortions after fetal cardiac activity is detected.",
+"url": "https://www.nytimes.com/2022/04/08/us/idaho-supreme-court-abortion.html",
+"urlToImage": "https://static01.nyt.com/images/2022/04/08/multimedia/08xp-idaho/08xp-idaho-facebookJumbo.jpg",
+"publishedAt": "2022-04-09T01:38:48Z",
+"content": "The court also declined to stop the Texas law, which allows any civilian to sue someone who aids or abets a woman in getting an abortion after fetal cardiac activity is detected, usually around six w… [+1110 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "KSL.com"
+},
+"author": "John Clyde, KSL.com Contributor",
+"title": "Parents guide: How 'Ambulance' earned its R rating - KSL.com",
+"description": "Movie reviewer John Clyde isn't here to tell you whether or not you should check out \"Ambulance,\" he's here to let you know how it earned its R rating.",
+"url": "https://www.ksl.com/article/50384380/parents-guide-how-ambulance-earned-its-r-rating",
+"urlToImage": "https://img.ksl.com/slc/2871/287187/28718705.jpg?filter=kslv2/responsive_story_lg",
+"publishedAt": "2022-04-09T01:36:10Z",
+"content": "Estimated read time: 3-4 minutes\r\nTHE AMBULANCE The movies can be an excellent place to escape reality for an hour or two. You get your popcorn, frozen Jr. Mints and giant soda and sit back in a dark… [+3028 chars]"
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "John Flesher",
+"title": "Whitmer kidnap plot: 2 men acquitted, hung jury for 2 more - The Associated Press - en Español",
+"description": "GRAND RAPIDS, Mich. (AP) — A jury on Friday acquitted two men of all charges in a plot to kidnap Michigan Gov.",
+"url": "https://apnews.com/article/whitmer-kidnap-plot-trial-hung-jury-e5b58234b134e32d9655288a51f107fb",
+"urlToImage": "https://storage.googleapis.com/afs-prod/media/64b3c4e124334772835c9199c710a730/1824.jpeg",
+"publishedAt": "2022-04-09T01:31:29Z",
+"content": "GRAND RAPIDS, Mich. (AP) A jury on Friday acquitted two men of all charges in a plot to kidnap Michigan Gov. Gretchen Whitmer but couldnt reach verdicts against the two alleged leaders, a stunning de… [+6701 chars]"
+},
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Mitchell Clark",
+"title": "This motorized gaming bed lets you rest your gamer head - The Verge",
+"description": "This bed from Bauhutte is designed to raise and lower your feet with the push of a button, and keep your gaming rig close by so you can wake up and instantly be ready to game.",
+"url": "https://www.theverge.com/2022/4/8/23017239/electric-gaming-bed-bauhutte-motorized-desk-station",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/XiWkg85bxgk_JyUECrC6kdcLhNo=/0x191:800x610/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23377731/f01_2.jpg",
+"publishedAt": "2022-04-09T01:10:22Z",
+"content": "I just wish it looked more comfortable\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThe gaming lifestyle.\r\nImage: Bauhutte\r\nHere at The Verge, … [+2900 chars]"
+},
+{
+"source": {
+"id": "politico",
+"name": "Politico"
+},
+"author": null,
+"title": "Liberal, conservative face off in California House fight - POLITICO",
+"description": "No candidate was able to claim a majority of the vote Tuesday and win Devin Nunes' former seat outright, so the top two finishers will advance to a runoff.",
+"url": "https://www.politico.com/news/2022/04/08/liberal-conservative-california-house-fight-00024245",
+"urlToImage": "https://static.politico.com/16/9e/26a54e0647bab6a8971156dd7e7e/election-2022-house-california-57393.jpg",
+"publishedAt": "2022-04-09T00:54:23Z",
+"content": "With most of the vote tallied, Hubbard had just under 20%, with his closest competitor for the second runoff spot, Republican Matt Stoll, several percentage points back.\r\nNunes, one of former Preside… [+597 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Deadline"
+},
+"author": "Tom Tapp",
+"title": "Los Angeles Covid Cases Up 78% In Past Four Days, Although Hospitalizations Show No Sign On Uptick - Deadline",
+"description": "One week after Los Angeles threw off the last of its Covid restrictions, L.A. Officials are concerned about the spread of the more contagious BA.2 variant, a rise in cases and looming school and religious holidays. “While outbreaks in many sectors remain low,…",
+"url": "https://deadline.com/2022/04/los-angeles-covid-cases-up-four-days-holidays-1234997668/",
+"urlToImage": "https://deadline.com/wp-content/uploads/2021/08/Downtown-Los-Angeles-skyline.jpg?w=1024",
+"publishedAt": "2022-04-09T00:51:00Z",
+"content": "One week after Los Angelesthrew off the last of its Covid restrictions, L.A. Officials are concerned about the spread of the more contagious BA.2 variant, a rise in cases and looming school and relig… [+3274 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Pro Football Network"
+},
+"author": null,
+"title": "2022 NFL Mock Draft With Trades: Saints, Seahawks trade up for Evan Neal, Malik Willis - Pro Football Network",
+"description": "In our latest 2022 NFL Mock Draft with trades, the Seattle Seahawks and New Orleans Saints move up the board to nab their preferred prospects.",
+"url": "https://www.profootballnetwork.com/2022-nfl-mock-draft-with-trades-saints-seahawks-trade-up/",
+"urlToImage": "https://www.profootballnetwork.com/wp-content/uploads/2022/04/2022-NFL-Mock-Draft-With-Trades.jpg",
+"publishedAt": "2022-04-09T00:00:37Z",
+"content": "2022 NFL Mock Draft | Picks 1-16\r\nThe good thing about the free Pro Football Network Mock Draft Simulator is it comes equipped with trades and this 2022 NFL Mock Draft has plenty of them. Simulating … [+8646 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Sara Ashley O'Brien, CNN Business",
+"title": "Amazon files its appeal of historic union vote at New York City warehouse - CNN",
+"description": "One week after Amazon workers at a New York City warehouse made history by voting to form a union, the tech giant is calling for a do-over election in filing Friday that lays out 25 objections that form the basis of its appeal.",
+"url": "https://www.cnn.com/2022/04/08/tech/amazon-union-elections-objections/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220408105045-amazon-objections-staten-island-union-vote-super-tease.jpg",
+"publishedAt": "2022-04-08T23:58:00Z",
+"content": "(CNN Business)One week after Amazon workers at a New York City warehouse made history by voting to form a union, the tech giant is calling for a do-over election in filing Friday that lays out 25 obj… [+6275 chars]"
+},
+{
+"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "Christina Capatides",
+"title": "More than 100 shelter dogs that survived starvation in war-torn Ukraine turned away at the Poland border, animal charity says - CBS News",
+"description": "After being trapped for weeks in a shelter near Borodyanka without food or water, 150 dogs were rescued by volunteers and driven to the Poland border – only to be turned away.",
+"url": "https://www.cbsnews.com/news/borodyanka-shelter-dogs-ukraine-war-poland/",
+"urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/2022/04/08/1cdcd7e4-9868-494b-a738-c7a11cba968f/borodyanka-dogs.jpg",
+"publishedAt": "2022-04-08T23:56:00Z",
+"content": "Less than a week after more than 300 dogs were found dead in an animal shelter near Borodyanka, Ukraine, where they starved to death without any food or water for more than a month, a representative … [+3058 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Brian Costello",
+"title": "Josh Donaldson shows he can take heat of being a Yankee - New York Post ",
+"description": "Plenty of Yankees newcomers have gotten off to slow starts in The Bronx and felt the pressure mount as they struggled with their new team. It seems as if Josh Donaldson will avoid that.",
+"url": "https://nypost.com/2022/04/08/josh-donaldson-shows-he-can-take-heat-of-being-a-yankee/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/Josh-Donaldson-2.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2022-04-08T23:50:00Z",
+"content": "Plenty of Yankees newcomers have gotten off to slow starts in The Bronx and felt the pressure mount as they struggled with their new team.\r\nIt seems as if Josh Donaldson will avoid that.\r\nDonaldson, … [+2929 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "TMZ"
+},
+"author": "TMZ Staff",
+"title": "Jussie Smollett Drops New Song After Jail Release, Addresses Court Case - TMZ",
+"description": "Jussie Smollett drops a new song after his release from jail and addresses his court case.",
+"url": "https://www.tmz.com/2022/04/08/jussie-smollett-drops-song-after-jail-release-sings-about-court-case/",
+"urlToImage": "https://imagez.tmz.com/image/5c/16by9/2022/04/08/5cf4e82721d94fda851ad489a269d185_xl.jpg",
+"publishedAt": "2022-04-08T23:36:00Z",
+"content": "Jussie Smollett mightve gone straight from his jail cell to the studio ... because he just dropped a new song where he directly addresses his court case.\r\nThe former Empire star released a single Fri… [+1364 chars]"
+}
+]
+}

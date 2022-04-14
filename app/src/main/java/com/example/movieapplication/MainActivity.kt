@@ -35,7 +35,7 @@ enum class Source(val domain: String?) {
 
 
 class MainActivity : AppCompatActivity() {
-    private val apiKey = "ff371db233a541a2a5395573579ee290"
+    private val apiKey = "API KEY"
     private val baseURL = "https://newsapi.org/v2/"
 
     private var currentScreen = Screen.TOP_HEADINGS

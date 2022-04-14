@@ -27,7 +27,7 @@
 
     <Button
         android:id="@+id/button_top_headings"
-        android:layout_width="wrap_content"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="@string/show_top_headings"
         app:layout_constraintEnd_toStartOf="@+id/button_everything"
@@ -37,13 +37,33 @@
 
     <Button
         android:id="@+id/button_everything"
-        android:layout_width="wrap_content"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="@string/show_everything"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/button_top_headings"
         app:layout_constraintTop_toBottomOf="@id/amount_of_news" />
+
+    <Button
+        android:id="@+id/button_BBC_news_top_headings"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/bbc_news"
+        app:layout_constraintEnd_toStartOf="@+id/button_NYT_news_top_headings"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button_top_headings" />
+
+    <Button
+        android:id="@+id/button_NYT_news_top_headings"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/new_york_times"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button_BBC_news_top_headings"
+        app:layout_constraintTop_toBottomOf="@id/button_everything" />
 
 
     <androidx.recyclerview.widget.RecyclerView
@@ -52,6 +72,6 @@
         android:layout_height="0dp"
         android:paddingTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/button_everything"/>
+        app:layout_constraintTop_toBottomOf="@id/button_NYT_news_top_headings"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
 

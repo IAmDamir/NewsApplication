@@ -19,4 +19,6 @@
     <string name="show_top_headings">Show top headings</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bbc_news">BBC News</string>
+    <string name="new_york_times">New York Times</string>
 </resources>

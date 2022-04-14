@@ -20,4 +20,12 @@ interface NewsAPIService {
         @Query("apiKey") token: String,
         @Query("pageSize") size: Int = 100
     ): Call<NewsResponseData>
+
+    @GET("everything")
+    fun getAllNewsFromSource(
+        @Query("q") keyword: String,
+        @Query("domains") domain: String?,
+        @Query("apiKey") token: String,
+        @Query("pageSize") size: Int = 100
+    ): Call<NewsResponseData>
 }

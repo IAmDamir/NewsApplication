@@ -27,18 +27,37 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 enum class Screen{
     TOP_HEADINGS, EVERYTHING
 }
+enum class Source(val domain: String?) {
+    NO_SOURCE(null),
+    BBC("bbc.co.uk"),
+    NYT("nytimes.com")
+}
+
 
 class MainActivity : AppCompatActivity() {
     private val apiKey = "ff371db233a541a2a5395573579ee290"
     private val baseURL = "https://newsapi.org/v2/"
 
     private var currentScreen = Screen.TOP_HEADINGS
+    private var currentSource = Source.NO_SOURCE
 
     private val layout: ConstraintLayout by lazy {findViewById(R.id.activity_main)}
     private val search: SearchView by lazy {findViewById(R.id.search_bar)}
     private val amountOfNews: TextView by lazy {findViewById(R.id.amount_of_news)}
     private val topHeadingsBtn: Button by lazy {findViewById(R.id.button_top_headings)}
     private val everythingBtn: Button by lazy {findViewById(R.id.button_everything)}
+    private val BBCNewsBtn: Button by lazy {findViewById(R.id.button_BBC_news_top_headings)}
+    private val NYTNewsBtn: Button by lazy {findViewById(R.id.button_NYT_news_top_headings)}
+
+    private val enqueue = object : Callback<NewsResponseData>{
+        override fun onFailure(call: Call<NewsResponseData>, t: Throwable) {
+            showError("Response failed: ${t.message}")
+        }
+        override fun onResponse(
+            call: Call<NewsResponseData>,
+            response: Response<NewsResponseData>
+        ) = handleResponse(response)
+    }
 
     private val recyclerView: RecyclerView
         by lazy { findViewById(R.id.recycler_view) }
@@ -70,9 +89,11 @@ class MainActivity : AppCompatActivity() {
 
         search.setOnQueryTextListener(object: SearchView.OnQueryTextListener{
             override fun onQueryTextSubmit(query: String?): Boolean {
-                when(currentScreen) {
-                    Screen.EVERYTHING -> getEverything(query)
-                    Screen.TOP_HEADINGS -> getTopHeadlines(query)
+                if(currentSource == Source.NO_SOURCE) {
+                    if (currentScreen == Screen.TOP_HEADINGS)
+                        getTopHeadlines(query)
+                } else {
+                    getEverythingFromSource(query, currentSource)
                 }
 
                 search.clearFocus()
@@ -86,6 +107,8 @@ class MainActivity : AppCompatActivity() {
 
         everythingBtn.setOnClickListener{getEverything(null)}
         topHeadingsBtn.setOnClickListener{getTopHeadlines(null)}
+        BBCNewsBtn.setOnClickListener {getEverythingFromSource(null, Source.BBC)}
+        NYTNewsBtn.setOnClickListener {getEverythingFromSource(null, Source.NYT)}
 
         recyclerView.layoutManager =
             LinearLayoutManager(this,
@@ -104,15 +127,7 @@ class MainActivity : AppCompatActivity() {
     private fun getTopHeadlines(keyword: String?) {
         newsAPIService
             .getTopHeadlineNews("us", keyword, apiKey)
-            .enqueue(object : Callback<NewsResponseData> {
-                override fun onFailure(call: Call<NewsResponseData>, t: Throwable) {
-                    showError("Response failed: ${t.message}")
-                }
-                override fun onResponse(
-                    call: Call<NewsResponseData>,
-                    response: Response<NewsResponseData>
-                ) = handleResponse(response)
-            })
+            .enqueue(enqueue)
 
         currentScreen = Screen.TOP_HEADINGS
     }
@@ -120,17 +135,18 @@ class MainActivity : AppCompatActivity() {
     private fun getEverything(keyword: String?) {
         newsAPIService
             .getAllNews(keyword ?: "apple", apiKey)
-            .enqueue(object : Callback<NewsResponseData> {
-                override fun onFailure(call: Call<NewsResponseData>, t: Throwable) {
-                    showError("Response failed: ${t.message}")
-                }
-                override fun onResponse(
-                    call: Call<NewsResponseData>,
-                    response: Response<NewsResponseData>
-                ) = handleResponse(response)
-            })
+            .enqueue(enqueue)
 
         currentScreen = Screen.EVERYTHING
+    }
+
+    private fun getEverythingFromSource(keyword: String?, source: Source) {
+        newsAPIService
+            .getAllNewsFromSource(keyword ?: "apple", source.domain, apiKey)
+            .enqueue(enqueue)
+
+        currentScreen = Screen.EVERYTHING
+        currentSource = source
     }
 
 
